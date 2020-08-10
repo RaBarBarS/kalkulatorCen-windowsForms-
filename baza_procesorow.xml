@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProcesor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <procesor>
+    <procesor_nazwa>b</procesor_nazwa>
+    <cena>2</cena>
+  </procesor>
+  <procesor>
+    <procesor_nazwa>a</procesor_nazwa>
+    <cena>1</cena>
+  </procesor>
+  <procesor>
+    <procesor_nazwa>c</procesor_nazwa>
+    <cena>3</cena>
+  </procesor>
+</ArrayOfProcesor>

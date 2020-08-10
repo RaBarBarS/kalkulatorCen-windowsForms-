@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMonitor_class xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <monitor_class>
+    <monitor_nazwa>generic_marka_1</monitor_nazwa>
+    <cena>12.99</cena>
+    <przekatna>12</przekatna>
+  </monitor_class>
+  <monitor_class>
+    <monitor_nazwa>generic_marka_2</monitor_nazwa>
+    <cena>199</cena>
+    <przekatna>32</przekatna>
+  </monitor_class>
+  <monitor_class>
+    <monitor_nazwa>generic_marka_3</monitor_nazwa>
+    <cena>67.98</cena>
+    <przekatna>29</przekatna>
+  </monitor_class>
+  <monitor_class>
+    <monitor_nazwa>generic_marka_4</monitor_nazwa>
+    <cena>999.99</cena>
+    <przekatna>99</przekatna>
+  </monitor_class>
+</ArrayOfMonitor_class>

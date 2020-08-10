@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDysk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dysk>
+    <dysk_nazwa>1000 GB SATA</dysk_nazwa>
+    <cena>300</cena>
+  </dysk>
+  <dysk>
+    <dysk_nazwa>500 GB SATA</dysk_nazwa>
+    <cena>200</cena>
+  </dysk>
+  <dysk>
+    <dysk_nazwa>240 GB SSD</dysk_nazwa>
+    <cena>100</cena>
+  </dysk>
+</ArrayOfDysk>
